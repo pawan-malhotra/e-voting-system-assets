@@ -4,7 +4,7 @@
 	import java.sql.*;
 
 	public class UserDetails {
-		private String userDetalis;
+		private String userId;
 		private int voterId;
 		private String password;
 		private String firstName;
