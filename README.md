@@ -15,6 +15,7 @@ Our task is to automate the offline election process to online and bring the ele
     - Pawan Kumar [Know More](https://pawanmalhotra.netlify.app)
     - Pavithra
     - Pawan Kumar Baldewa
+    - Parthib
 
 - **Front-end** 
     - Poorvi
@@ -24,7 +25,6 @@ Our task is to automate the offline election process to online and bring the ele
 
 - **Database**
     - Dheeraj
-    - Parthib
     - Pinki
 
 > ## **Requirements**
