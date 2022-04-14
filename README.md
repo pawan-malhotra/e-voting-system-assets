@@ -34,7 +34,7 @@ Our task is to automate the offline election process to online and bring the ele
 > **Software Requirement**
 
 - JDK-11
-- Eclipse-IDE
+- Intellij-Idea
 - Oracle 11g database
 - Adobe XD or Gravit Designer (UI/UX Designer Tool)
 
