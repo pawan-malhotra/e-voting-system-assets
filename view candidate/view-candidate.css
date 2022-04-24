@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(rgba(255, 255, 255, .7), rgba(255, 255, 255, .7)), url('login-bg.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-container {
+    width: 100%;
+    height: fit-content;
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-container .cards {
+    width: 90%;
+    height: fit-content;
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border: 1px solid black;
+}
+
+.card-content {
+    height: fit-content;
+    transition: all ease .25s;
+}
+
+.card-content .datas {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
